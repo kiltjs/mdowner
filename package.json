@@ -1,0 +1,19 @@
+{
+  "name": "mdowner",
+  "version": "1.0.0",
+  "description": "Yet another markdown parser",
+  "main": "lib/mdowner.js",
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "mocha": "^5.2.0"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "repository": "git@github.com:kiltjs/mdowner.git"
+}
